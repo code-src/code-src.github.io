@@ -6,17 +6,7 @@
     <description>Recent content on FOR Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://github.com/code-src/&#34;&gt;FOR&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 22:24:24 +0800</lastBuildDate><atom:link href="https://code-src.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://code-src.github.io/posts/first/</link>
-      <pubDate>Thu, 17 Dec 2020 22:24:24 +0800</pubDate>
-      
-      <guid>https://code-src.github.io/posts/first/</guid>
-      <description>Integer nec dolor pharetra Integer eget arcu velit. Suspendisse tristique magna nec turpis accumsan ultricies. Duis congue urna non nisl eleifend suscipit.</description>
-    </item>
-    
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://github.com/code-src/&#34;&gt;FOR&lt;/a&gt;</copyright><atom:link href="https://code-src.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://code-src.github.io/about/</link>
